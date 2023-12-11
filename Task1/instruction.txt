@@ -1,0 +1,4 @@
+Create a new topic named stock_topic_test, then publish the stock streaming data to the newly created topic. For data please change with instruction below :
+In producer.py, line 20 change data with this
+'ticker': random.choice(['IDR', 'USD', 'SGD', 'JPY', 'EUR']).
+Please upload source code and screenshot output of program

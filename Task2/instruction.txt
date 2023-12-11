@@ -1,0 +1,2 @@
+Create new table named cdc_tables then doing insert, update and delete operation. 
+Please upload all source code, screenshot output of new table cdc_tables and cdc logs include insert, update and delete operation.
