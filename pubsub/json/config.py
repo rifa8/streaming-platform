@@ -1,0 +1,1 @@
+TOPIC="stock_json_topic"
